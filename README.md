@@ -42,30 +42,37 @@
 
 > 电路与电子学I部分
 
+{{% details title="2025春授课教师" closed="true" %}}
+<!--标题-->
+<table border="1" cellspacing="10">
 <tr>
-  <td rowspan="3" align="center">2025年春季学期授课教师</td>
+  <th align="center">班级</th>
+  <th align="center">电路部分</th>
+  <th align="center">模电部分</th>
+</tr>
+<tr>
   <td>计算机与电子通信1-8班</td>
   <td>孙丽</td>
   <td>吴婷</td>
-  <td></td>
 </tr>
 <tr>
   <td>计算机与电子通信9-16班</td>
   <td>詹瀚林</td>
   <td>谷雨</td>
-  <td></td>
 </tr>
 <tr>
   <td>计算机与电子通信17-20班</td>
   <td>和军平</td>
   <td>梁高琪</td>
-  <td></td>
 </tr>
 <tr>
+</table>
+{{% /details %}}
 
 ## 授课内容
+> 2025 春电路与电子学I授课内容
 
-{{% details title="电路与电子学I" closed="true" %}}
+{{% details title="电路部分" closed="true" %}}
 <!--标题-->
 <table border="1" cellspacing="10">
 <tr>
@@ -160,6 +167,18 @@
   <td>1.理解网络函数和频率特性；<br>
       2.掌握串联谐振电路，RLC串联电路的频率特性和电路计算（重点、难点）；<br>
       3.掌握并联谐振电路，GLC并联电路的频率特性和电路计算（重点、难点）。</td>
+</tr>
+</table>
+{{% /details %}}
+
+{{% details title="模电部分" closed="true" %}}
+<!--标题-->
+<table border="1" cellspacing="10">
+<tr>
+  <th align="center">章节</th>
+  <th align="center">授课内容</th>
+  <th align="center">学时安排</th>
+  <th align="center">课程要求</th>
 </tr>
 <tr>
   <td rowspan="2" align="center">第五章：常用半导体器件（5学时）</td>
