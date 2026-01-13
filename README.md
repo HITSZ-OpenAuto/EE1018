@@ -1,4 +1,4 @@
-# EE1019 - 电路与电子学I
+# EE1018 - 电路与电子学I
 
 
 ![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)

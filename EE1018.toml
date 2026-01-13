@@ -1,6 +1,5 @@
-# 注意: 仓库名为 EE1018，但 README 标题为 EE1019 - 电路与电子学I。此处使用 EE1019 作为 course_code。
 course_name = "电路与电子学I"
-course_code = "EE1019"
+course_code = "EE1018"
 
 notices = """
 注意，电路与电子技术实验I[EE1021](https://hoa.moe/docs/fresh-spring/ee1021/)独立设课。
