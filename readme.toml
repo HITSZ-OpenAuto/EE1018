@@ -54,6 +54,16 @@ content = """
 """
 author = { name = "佚名", link = "", date = "2026-01" }
 
+[[sections]]
+title = "教材和参考书"
+
+[[sections.items]]
+content = """
+- **电路理论基础**（孙立山 / 陈希有 等 / 高等教育出版社 / 第四版 / textbook）
+- **模拟电子技术基础**（童诗白 / 华成英 / 高等教育出版社 / 第五版或第六版 / textbook）
+
+其他参考教材和教辅详见三电对应仓库里的资料，在此不详细列出。
+"""
 
 [[sections]]
 title = "在线资源"
