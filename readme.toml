@@ -1,7 +1,6 @@
 course_name = "电路与电子学I"
-repo_type = "normal"
 course_code = "EE1018"
-
+repo_type = "normal"
 description = """
 注意，电路与电子技术实验I [EE1021](https://hoa.moe/docs/fresh-spring/ee1021/) 独立设课。
 
@@ -17,10 +16,12 @@ description = """
 [模拟电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1007/)
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "曹玲玲"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 原电工与电子技术的授课教师，负责电路部分。
 老师声音好听，十分温柔，授课讲解思路清晰。
@@ -29,10 +30,10 @@ content = """
 """
 author = { name = "佚名", link = "", date = "2026-01" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "张瑞宏"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 原电工与电子技术的授课教师，负责模电部分。已离职。
 老师教学经验丰富，课讲得非常好，平易近人（本科计算机的，硕士转电气，对计算机学生有同感）。

@@ -14,11 +14,13 @@
 24 级起计算机与电子通信集群开设电路与电子学I（本课程）。
 
 本门课为电路和模电部分，关于这两部分更详细的资料可以参考：
-1.[电路IA](https://hoa.moe/docs/fresh-spring/ee1011a/)
-2.[模拟电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1007/)
+
+1. [电路IA](https://hoa.moe/docs/fresh-spring/ee1011a/)
+2. [模拟电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1007/)
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 曹玲玲
   <!-- TOML-ITEM: id="review-曹玲玲-1" -->
   - 负责电路部分。
