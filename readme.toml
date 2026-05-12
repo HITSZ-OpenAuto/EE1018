@@ -211,7 +211,7 @@ content = """
 """
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "朱荣伍"
 
 [[lecturers.items.reviews]]
