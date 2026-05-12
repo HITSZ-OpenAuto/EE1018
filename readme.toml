@@ -244,6 +244,7 @@ title = "课程内容"
 
 [[sections.items]]
 content = """
+> 2025 春授课内容
 {{% details title="电路部分" closed="true" %}}
 <!--标题-->
 <table border="1" cellspacing="10">
