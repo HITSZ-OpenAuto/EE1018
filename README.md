@@ -1,10 +1,5 @@
 # EE1018 - 电路与电子学I
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期末考试80%](https://img.shields.io/badge/期末考试-80%25-wheat)
 
 注意，电路与电子技术实验I [EE1021](https://hoa.moe/docs/fresh-spring/ee1021/) 独立设课。
 
