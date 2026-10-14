@@ -1,0 +1,57 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1764300015,
+    "hash": "ba612b8d270e4853cac588f6e4adea20e64ded7e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1764300015,
+    "hash": "ba612b8d270e4853cac588f6e4adea20e64ded7e"
+  },
+  "README.md": {
+    "size": 19696,
+    "time": 1791961645,
+    "hash": "d4e73a5782e9470613f7298cd6a15a75343b3524"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1764300015,
+    "hash": "ba612b8d270e4853cac588f6e4adea20e64ded7e"
+  },
+  "exams/2021计科电工期末试卷.pdf": {
+    "size": 702692,
+    "time": 1764301764,
+    "hash": "d7bfd9824b057b2836ce1e60b7d8518c418415fe"
+  },
+  "exams/2026春二合一电路与电子学 I 期末回忆0831.pdf": {
+    "size": 467703,
+    "time": 1788185465,
+    "hash": "a9460b1c2ad95b8878b786dd7fd1f99f2e6594ff"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1764300015,
+    "hash": "ba612b8d270e4853cac588f6e4adea20e64ded7e"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1764300015,
+    "hash": "ba612b8d270e4853cac588f6e4adea20e64ded7e"
+  },
+  "notes/2024_lsx/电路与电子学I-电路部分_lsx.pdf": {
+    "size": 2426525,
+    "time": 1766305858,
+    "hash": "45da765966514791c97f72e1198cb7bbf2e10ccf"
+  },
+  "readme.toml": {
+    "size": 20095,
+    "time": 1785345801,
+    "hash": "18c9e80296921e96936a40a224cbe7b843a0290b"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1764300015,
+    "hash": "ba612b8d270e4853cac588f6e4adea20e64ded7e"
+  }
+}
